@@ -39,10 +39,8 @@ if (!fs.existsSync(outDir)) {
     fs.mkdirSync(outDir);
 }
 
-if (fs.existsSync(path.join(outDir, "output.txt")))
-    fs.rmSync(path.join(outDir, "output.txt"));
-if (fs.existsSync(path.join(outDir, "filtered.txt")))
-    fs.rmSync(path.join(outDir, "filtered.txt"));
+if (fs.existsSync(path.join(outDir, "rare-items-only.txt")))
+    fs.rmSync(path.join(outDir, "rare-items-only.txt"));
 
 const hashPath = path.join(__dirname, "..", "hashes.json")
 
@@ -70,7 +68,7 @@ for (const image of images) {
     if (hashes[image] && hash === hashes[image].hash) {
         const split = hashes[image].text_data.split("\n").filter((v) => v.includes("Relic"));
         for (const line of split) {
-            const relics = line.split("Relic ").map((v) => v.replace("IT", "I1").replace("|", "I")).map((v) => v.endsWith("Relic") ? v.replace("Relic", "") : v).map((v) => v.replace(/\[.*\]/g, "")).map((v) => v.trim()).map((v) => v + " Intact");
+            const relics = line.split("Relic ").filter((v) => !v.startsWith("Requiem")).map((v) => v.replace("IT", "I1").replace("|", "I")).map((v) => v.endsWith("Relic") ? v.replace("Relic", "") : v).map((v) => v.replace(/\[.*\]/g, "")).map((v) => v.trim()).map((v) => v + " Intact");
             relics.forEach((v) => relics_in_inventory.push(v));
         }
     }
@@ -79,7 +77,7 @@ for (const image of images) {
         hashes[image] = { text_data: rec.data.text, hash };
         const split = rec.data.text.split("\n").filter((v) => v.includes("Relic"));
         for (const line of split) {
-            const relics = line.split("Relic ").map((v) => v.replace("IT", "I1").replace("|", "I")).map((v) => v.endsWith("Relic") ? v.replace("Relic", "") : v).map((v) => v.replace(/\[.*\]/g, "")).map((v) => v.trim()).map((v) => v + " Intact");
+            const relics = line.split("Relic ").filter((v) => !v.startsWith("Requiem")).map((v) => v.replace("IT", "I1").replace("|", "I")).map((v) => v.endsWith("Relic") ? v.replace("Relic", "") : v).map((v) => v.replace(/\[.*\]/g, "")).map((v) => v.trim()).map((v) => v + " Intact");
             relics.forEach((v) => relics_in_inventory.push(v));
         }
     }
@@ -166,21 +164,21 @@ function getHighestOrder(orders: order[]) {
     return highest_plat.order;
 }
 
-function median(arr: number[]) {
-    arr.sort((a, b) => a - b);
+function getMedian(arr: order[]) {
+    arr.sort((a, b) => a.platinum - b.platinum);
 
     const mid = Math.floor(arr.length / 2);
 
     if (arr.length % 2 !== 0) {
-        return arr[mid];
+        return arr[mid].platinum;
     } else {
-        return (arr[mid - 1] + arr[mid]) / 2;
+        try {
+            return (arr[mid - 1].platinum + arr[mid].platinum) / 2;
+        }
+        catch {
+            return 0
+        }
     }
-}
-
-function getAverage(orders: order[]) {
-    const orders_mapped: number[] = orders.filter((v) => v.order_type == "buy" && v.user.status == "ingame").map((v) => v.platinum);
-    return median(orders_mapped);
 }
 
 function getLowestOrder(orders: order[]) {
@@ -229,7 +227,7 @@ for (const relic of relics_in_inventory) {
                     info_string += `${highest?.platinum} by ${highest?.user.ingame_name} with rep ${highest?.user.reputation}\n`;
                     info_string += "Lowest price: (ingame):\n";
                     info_string +=`${lowest?.platinum} by ${lowest?.user.ingame_name} with rep ${lowest?.user.reputation}\n`;
-                    average = getAverage(buy_orders.payload.orders);
+                    average = getMedian(buy_orders.payload.orders.filter((v) => v .order_type == "buy"));
                 }
             }
             info_strings.push({info_string, average});
@@ -237,11 +235,9 @@ for (const relic of relics_in_inventory) {
     }
 }
 
-fs.writeFileSync(path.join(outDir, "output.txt"), info_strings.map((v) => v.info_string).join("\n"));
-
 const filtered = info_strings.sort((a, b) => b.average - a.average);
 
-fs.writeFileSync(path.join(outDir, "filtered.txt"), filtered.map((v) => v.info_string + (v.average != 0 ? `Median: ${v.average}\n` : "")).join("\n"));
+fs.writeFileSync(path.join(outDir, "rare-items-only.txt"), filtered.map((v) => v.info_string + (v.average != 0 ? `Median: ${v.average}\n` : "")).join("\n"));
 
 await worker.terminate();
 

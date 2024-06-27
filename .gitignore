@@ -4,3 +4,5 @@ node_modules/
 eng.traineddata
 hashes.json
 pnpm-lock.yaml
+!example/imgs
+!example/output

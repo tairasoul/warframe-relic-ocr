@@ -1,0 +1,476 @@
+Lith M7 Intact
+Mirage Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+26 by Abakkan with rep 1
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 22
+
+Lith M5 Intact
+Mesa Prime Neuroptics Blueprint
+warframe-market data
+Highest price: (ingame)
+25 by XxClawSxX with rep 6
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 20
+
+Lith V7 Intact
+Vauban Prime Neuroptics Blueprint
+warframe-market data
+Highest price: (ingame)
+25 by BotleYT with rep 35
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 20
+
+Neo N10 Intact
+Nami Skyla Prime Blade
+warframe-market data
+Highest price: (ingame)
+26 by RRonix with rep 0
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 20
+
+Lith I1 Intact
+Ivara Prime Chassis Blueprint
+warframe-market data
+Highest price: (ingame)
+21 by NemeSiS_R with rep 1
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 16
+
+Lith L2 Intact
+Limbo Prime Neuroptics Blueprint
+warframe-market data
+Highest price: (ingame)
+18 by KVenom with rep 131
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 16
+
+Lith K3 Intact
+Kronen Prime Blade
+warframe-market data
+Highest price: (ingame)
+30 by g-2302 with rep 4
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 15
+
+Meso A2 Intact
+Akbolto Prime Receiver
+warframe-market data
+Highest price: (ingame)
+15 by Myxabba with rep 28
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 15
+
+Meso D4 Intact
+Dethcube Prime Cerebrum
+warframe-market data
+Highest price: (ingame)
+22 by crumboli with rep 1
+Lowest price: (ingame):
+11 by deepfield8 with rep 6
+Median: 15
+
+Meso E2 Intact
+Equinox Prime Systems Blueprint
+warframe-market data
+Highest price: (ingame)
+16 by LaughmanLJ with rep 2
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 15
+
+Meso E3 Intact
+Equinox Prime Systems Blueprint
+warframe-market data
+Highest price: (ingame)
+16 by LaughmanLJ with rep 2
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 15
+
+Meso Z3 Intact
+Zephyr Prime Systems Blueprint
+warframe-market data
+Highest price: (ingame)
+17 by GoodGuyGingii with rep 12
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 15
+
+Neo T2 Intact
+Tekko Prime Blade
+warframe-market data
+Highest price: (ingame)
+16 by Myxabba with rep 28
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 15
+
+Lith A3 Intact
+Akjagara Prime Barrel
+warframe-market data
+Highest price: (ingame)
+16 by RRonix with rep 0
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 11.5
+
+Neo A3 Intact
+Akjagara Prime Barrel
+warframe-market data
+Highest price: (ingame)
+16 by RRonix with rep 0
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 11.5
+
+Lith N6 Intact
+Nezha Prime Neuroptics Blueprint
+warframe-market data
+Highest price: (ingame)
+15 by BatFangs with rep 8
+Lowest price: (ingame):
+10 by EatShytDie with rep 0
+Median: 11
+
+Lith C4 Intact
+Chroma Prime Neuroptics Blueprint
+warframe-market data
+Highest price: (ingame)
+10 by Yurih with rep 3
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 10
+
+Lith K2 Intact
+Kogake Prime Gauntlet
+warframe-market data
+Highest price: (ingame)
+15 by RRonix with rep 0
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 10
+
+Lith N5 Intact
+Ninkondi Prime Handle
+warframe-market data
+Highest price: (ingame)
+5 by DepartedSoulzPrime with rep 12
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 10
+
+Meso N7 Intact
+Ninkondi Prime Handle
+warframe-market data
+Highest price: (ingame)
+5 by DepartedSoulzPrime with rep 12
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 10
+
+Meso N9 Intact
+Ninkondi Prime Handle
+warframe-market data
+Highest price: (ingame)
+5 by DepartedSoulzPrime with rep 12
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 10
+
+Meso W4 Intact
+Wisp Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+10 by Danny99s with rep 20
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 10
+
+Meso G7 Intact
+Gauss Prime Systems Blueprint
+warframe-market data
+Highest price: (ingame)
+10 by Katsuii with rep 12
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 9
+
+Meso W5 Intact
+Wisp Prime Chassis Blueprint
+warframe-market data
+Highest price: (ingame)
+5 by Danny99s with rep 20
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 9
+
+Meso R2 Intact
+Rubico Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+10 by Indalx with rep 13
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 8.5
+
+Meso R4 Intact
+Rubico Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+10 by Indalx with rep 13
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 8.5
+
+Neo R2 Intact
+Rubico Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+10 by Indalx with rep 13
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 8.5
+
+Lith P8 Intact
+Phantasma Prime Barrel
+warframe-market data
+Highest price: (ingame)
+8 by Boeyneko with rep 175
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 8
+
+Lith R5 Intact
+Revenant Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+10 by M61_FAL with rep 23
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 8
+
+Meso B9 Intact
+Baruuk Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+8 by the_white_phantom with rep 3
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 8
+
+Meso H5 Intact
+Hildryn Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+8 by Eternal-Redeemer with rep 64
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 8
+
+Meso T3 Intact
+Tiberon Prime Stock
+warframe-market data
+Highest price: (ingame)
+15 by pot4toframe with rep 10
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 8
+
+Meso V9 Intact
+Velox Prime Barrel
+warframe-market data
+Highest price: (ingame)
+9 by ggmangg123123 with rep 1
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 8
+
+Neo A11 Intact
+Akarius Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+8 by sahngqing with rep 0
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 8
+
+Neo A12 Intact
+Acceltra Prime Barrel
+warframe-market data
+Highest price: (ingame)
+10 by rudarobson with rep 2
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 8
+
+Meso G2 Intact
+Guandao Prime Handle
+warframe-market data
+Highest price: (ingame)
+8 by sahngqing with rep 0
+Lowest price: (ingame):
+1 by Bethorr with rep 2
+Median: 7.5
+
+Lith A4 Intact
+Astilla Prime Barrel
+warframe-market data
+Highest price: (ingame)
+8 by sahngqing with rep 0
+Lowest price: (ingame):
+1 by Bethorr with rep 2
+Median: 7
+
+Lith A6 Intact
+Akarius Prime Receiver
+warframe-market data
+Highest price: (ingame)
+10 by IIbceII with rep 2
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 7
+
+Lith C11 Intact
+Cobra & Crane Prime Guard
+warframe-market data
+Highest price: (ingame)
+8 by Interstellar-adventurer with rep 9
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 7
+
+Lith D1 Intact
+Dethcube Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+7 by Skripaaaa with rep 0
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 7
+
+Lith G10 Intact
+Gunsen Prime Blade
+warframe-market data
+Highest price: (ingame)
+7 by Demon-Hunter-Geralt with rep 51
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 7
+
+Lith K6 Intact
+Karyst Prime Blade
+warframe-market data
+Highest price: (ingame)
+7 by sahngqing with rep 0
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 7
+
+Lith P4 Intact
+Panthera Prime Barrel
+warframe-market data
+Highest price: (ingame)
+5 by justyynka7 with rep 40
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 7
+
+Lith P5 Intact
+Pangolin Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+10 by Black_Show with rep 13
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 7
+
+Lith T12 Intact
+Tatsu Prime Handle
+warframe-market data
+Highest price: (ingame)
+8 by Interstellar-adventurer with rep 9
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 7
+
+Meso G6 Intact
+Grendel Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+7 by Demon-Hunter-Geralt with rep 51
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 7
+
+Meso P5 Intact
+Panthera Prime Receiver
+warframe-market data
+Highest price: (ingame)
+8 by IIbceII with rep 2
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 7
+
+Neo M5 Intact
+Masseter Prime Blade
+warframe-market data
+Highest price: (ingame)
+8 by Demon-Hunter-Geralt with rep 51
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 7
+
+Neo S18 Intact
+Shade Prime Carapace
+warframe-market data
+Highest price: (ingame)
+8 by Interstellar-adventurer with rep 9
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 7
+
+Lith S8 Intact
+Stradavar Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+8 by Comarz with rep 22
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 6
+
+Meso C6 Intact
+Corinth Prime Stock
+warframe-market data
+Highest price: (ingame)
+8 by Myxabba with rep 28
+Lowest price: (ingame):
+4 by DerSucher with rep 152
+Median: 6
+
+Lith B7 Intact
+Baza Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+5 by Indalx with rep 13
+Lowest price: (ingame):
+5 by Indalx with rep 13
+Median: 5
+
+Meso B4 Intact
+Baza Prime Blueprint
+warframe-market data
+Highest price: (ingame)
+5 by Indalx with rep 13
+Lowest price: (ingame):
+5 by Indalx with rep 13
+Median: 5
