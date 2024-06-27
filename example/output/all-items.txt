@@ -1,0 +1,1152 @@
+Mirage Prime Blueprint:
+    Highest order ingame: 26 plat by user Abakkan (1 rep)
+    Median price: 22
+    Relics containing this item:
+        Lith M7 at 2% chance
+
+Mesa Prime Neuroptics Blueprint:
+    Highest order ingame: 25 plat by user XxClawSxX (6 rep)
+    Median price: 20
+    Relics containing this item:
+        Lith M5 at 2% chance
+
+Vauban Prime Neuroptics Blueprint:
+    Highest order ingame: 25 plat by user BotleYT (35 rep)
+    Median price: 20
+    Relics containing this item:
+        Lith V7 at 2% chance
+
+Nami Skyla Prime Blade:
+    Highest order ingame: 26 plat by user RRonix (0 rep)
+    Median price: 20
+    Relics containing this item:
+        Neo N10 at 2% chance
+
+Ivara Prime Chassis Blueprint:
+    Highest order ingame: 21 plat by user NemeSiS_R (1 rep)
+    Median price: 16
+    Relics containing this item:
+        Lith I1 at 2% chance
+
+Limbo Prime Neuroptics Blueprint:
+    Highest order ingame: 18 plat by user KVenom (131 rep)
+    Median price: 16
+    Relics containing this item:
+        Lith L2 at 2% chance
+
+Kronen Prime Blade:
+    Highest order ingame: 30 plat by user g-2302 (4 rep)
+    Median price: 15
+    Relics containing this item:
+        Lith K3 at 2% chance
+
+Akbolto Prime Receiver:
+    Highest order ingame: 15 plat by user Myxabba (28 rep)
+    Median price: 15
+    Relics containing this item:
+        Meso A2 at 2% chance
+
+Dethcube Prime Cerebrum:
+    Highest order ingame: 22 plat by user crumboli (1 rep)
+    Median price: 15
+    Relics containing this item:
+        Meso D4 at 2% chance
+
+Equinox Prime Systems Blueprint:
+    Highest order ingame: 16 plat by user LaughmanLJ (2 rep)
+    Median price: 15
+    Relics containing this item:
+        Meso E2 at 2% chance
+        Meso E3 at 2% chance
+
+Zephyr Prime Systems Blueprint:
+    Highest order ingame: 17 plat by user GoodGuyGingii (12 rep)
+    Median price: 15
+    Relics containing this item:
+        Meso Z3 at 2% chance
+
+Tekko Prime Blade:
+    Highest order ingame: 16 plat by user Myxabba (28 rep)
+    Median price: 15
+    Relics containing this item:
+        Neo T2 at 2% chance
+
+Akjagara Prime Barrel:
+    Highest order ingame: 16 plat by user RRonix (0 rep)
+    Median price: 11.5
+    Relics containing this item:
+        Lith A3 at 2% chance
+        Neo A3 at 2% chance
+
+Nezha Prime Neuroptics Blueprint:
+    Highest order ingame: 15 plat by user BatFangs (8 rep)
+    Median price: 11
+    Relics containing this item:
+        Lith N6 at 2% chance
+
+Chroma Prime Neuroptics Blueprint:
+    Highest order ingame: 10 plat by user Yurih (3 rep)
+    Median price: 10
+    Relics containing this item:
+        Lith C4 at 2% chance
+
+Kogake Prime Gauntlet:
+    Highest order ingame: 15 plat by user RRonix (0 rep)
+    Median price: 10
+    Relics containing this item:
+        Lith K2 at 2% chance
+
+Ninkondi Prime Handle:
+    Highest order ingame: 5 plat by user DepartedSoulzPrime (12 rep)
+    Median price: 10
+    Relics containing this item:
+        Lith N5 at 2% chance
+        Meso N7 at 2% chance
+        Meso N9 at 2% chance
+
+Wisp Prime Blueprint:
+    Highest order ingame: 10 plat by user Danny99s (20 rep)
+    Median price: 10
+    Relics containing this item:
+        Meso W4 at 2% chance
+
+Gauss Prime Systems Blueprint:
+    Highest order ingame: 10 plat by user Katsuii (12 rep)
+    Median price: 9
+    Relics containing this item:
+        Meso G7 at 2% chance
+
+Wisp Prime Chassis Blueprint:
+    Highest order ingame: 5 plat by user Danny99s (20 rep)
+    Median price: 9
+    Relics containing this item:
+        Meso W5 at 2% chance
+
+Rubico Prime Blueprint:
+    Highest order ingame: 10 plat by user Indalx (13 rep)
+    Median price: 8.5
+    Relics containing this item:
+        Meso R2 at 2% chance
+        Meso R4 at 2% chance
+        Neo R2 at 2% chance
+
+Phantasma Prime Barrel:
+    Highest order ingame: 8 plat by user Boeyneko (175 rep)
+    Median price: 8
+    Relics containing this item:
+        Lith P8 at 2% chance
+
+Revenant Prime Blueprint:
+    Highest order ingame: 10 plat by user M61_FAL (23 rep)
+    Median price: 8
+    Relics containing this item:
+        Lith R5 at 2% chance
+
+Baruuk Prime Blueprint:
+    Highest order ingame: 8 plat by user the_white_phantom (3 rep)
+    Median price: 8
+    Relics containing this item:
+        Meso B9 at 2% chance
+
+Hildryn Prime Blueprint:
+    Highest order ingame: 8 plat by user Eternal-Redeemer (64 rep)
+    Median price: 8
+    Relics containing this item:
+        Meso H5 at 2% chance
+
+Tiberon Prime Stock:
+    Highest order ingame: 15 plat by user pot4toframe (10 rep)
+    Median price: 8
+    Relics containing this item:
+        Meso T3 at 2% chance
+
+Velox Prime Barrel:
+    Highest order ingame: 9 plat by user ggmangg123123 (1 rep)
+    Median price: 8
+    Relics containing this item:
+        Meso V9 at 2% chance
+
+Akarius Prime Blueprint:
+    Highest order ingame: 8 plat by user sahngqing (0 rep)
+    Median price: 8
+    Relics containing this item:
+        Neo A11 at 2% chance
+
+Acceltra Prime Barrel:
+    Highest order ingame: 10 plat by user rudarobson (2 rep)
+    Median price: 8
+    Relics containing this item:
+        Neo A12 at 2% chance
+
+Guandao Prime Handle:
+    Highest order ingame: 8 plat by user sahngqing (0 rep)
+    Median price: 7.5
+    Relics containing this item:
+        Meso G2 at 2% chance
+
+Astilla Prime Barrel:
+    Highest order ingame: 8 plat by user sahngqing (0 rep)
+    Median price: 7
+    Relics containing this item:
+        Lith A4 at 2% chance
+
+Akarius Prime Receiver:
+    Highest order ingame: 10 plat by user IIbceII (2 rep)
+    Median price: 7
+    Relics containing this item:
+        Lith A6 at 2% chance
+
+Cobra & Crane Prime Guard:
+    Highest order ingame: 8 plat by user Interstellar-adventurer (9 rep)
+    Median price: 7
+    Relics containing this item:
+        Lith C11 at 2% chance
+
+Dethcube Prime Blueprint:
+    Highest order ingame: 7 plat by user Skripaaaa (0 rep)
+    Median price: 7
+    Relics containing this item:
+        Lith D1 at 2% chance
+
+Gunsen Prime Blade:
+    Highest order ingame: 7 plat by user Demon-Hunter-Geralt (51 rep)
+    Median price: 7
+    Relics containing this item:
+        Lith G10 at 2% chance
+
+Karyst Prime Blade:
+    Highest order ingame: 7 plat by user sahngqing (0 rep)
+    Median price: 7
+    Relics containing this item:
+        Lith K6 at 2% chance
+
+Panthera Prime Barrel:
+    Highest order ingame: 5 plat by user justyynka7 (40 rep)
+    Median price: 7
+    Relics containing this item:
+        Lith P4 at 2% chance
+
+Pangolin Prime Blueprint:
+    Highest order ingame: 10 plat by user Black_Show (13 rep)
+    Median price: 7
+    Relics containing this item:
+        Lith P5 at 2% chance
+
+Tatsu Prime Handle:
+    Highest order ingame: 8 plat by user Interstellar-adventurer (9 rep)
+    Median price: 7
+    Relics containing this item:
+        Lith T12 at 2% chance
+
+Ash Prime Blueprint:
+    Highest order ingame: 6 plat by user VINDECATORUL (15 rep)
+    Median price: 7
+    Relics containing this item:
+        Lith V7 at 11% chance
+
+Vectis Prime Barrel:
+    Highest order ingame: 8 plat by user loran_001 (2 rep)
+    Median price: 7
+    Relics containing this item:
+        Lith V7 at 25.33% chance
+
+Grendel Prime Blueprint:
+    Highest order ingame: 7 plat by user Demon-Hunter-Geralt (51 rep)
+    Median price: 7
+    Relics containing this item:
+        Meso G6 at 2% chance
+
+Panthera Prime Receiver:
+    Highest order ingame: 8 plat by user IIbceII (2 rep)
+    Median price: 7
+    Relics containing this item:
+        Meso P5 at 2% chance
+
+Masseter Prime Blade:
+    Highest order ingame: 8 plat by user Demon-Hunter-Geralt (51 rep)
+    Median price: 7
+    Relics containing this item:
+        Neo M5 at 2% chance
+
+Shade Prime Carapace:
+    Highest order ingame: 8 plat by user Interstellar-adventurer (9 rep)
+    Median price: 7
+    Relics containing this item:
+        Neo S18 at 2% chance
+
+Stradavar Prime Blueprint:
+    Highest order ingame: 8 plat by user Comarz (22 rep)
+    Median price: 6
+    Relics containing this item:
+        Lith S8 at 2% chance
+
+Fragor Prime Head:
+    Highest order ingame: 11 plat by user Notmyproblems (0 rep)
+    Median price: 6
+    Relics containing this item:
+        Lith V7 at 25.33% chance
+
+Corinth Prime Stock:
+    Highest order ingame: 8 plat by user Myxabba (28 rep)
+    Median price: 6
+    Relics containing this item:
+        Meso C6 at 2% chance
+
+Chroma Prime Systems Blueprint:
+    Highest order ingame: 8 plat by user CyanShine (1 rep)
+    Median price: 6
+    Relics containing this item:
+        Meso R4 at 11% chance
+
+Baza Prime Blueprint:
+    Highest order ingame: 5 plat by user Indalx (13 rep)
+    Median price: 5
+    Relics containing this item:
+        Lith B7 at 2% chance
+        Meso B4 at 2% chance
+
+Aksomati Prime Barrel:
+    Median price: 5
+    Relics containing this item:
+        Lith B7 at 11% chance
+
+Wukong Prime Chassis Blueprint:
+    Highest order ingame: 7 plat by user kiellcd (10 rep)
+    Median price: 5
+    Relics containing this item:
+        Lith K3 at 11% chance
+        Meso B4 at 11% chance
+
+Equinox Prime Blueprint:
+    Median price: 5
+    Relics containing this item:
+        Lith P4 at 11% chance
+        Meso A2 at 11% chance
+
+Carrier Prime Blueprint:
+    Median price: 5
+    Relics containing this item:
+        Lith V7 at 25.33% chance
+
+Destreza Prime Handle:
+    Highest order ingame: 10 plat by user RRonix (0 rep)
+    Median price: 5
+    Relics containing this item:
+        Meso E2 at 25.33% chance
+        Meso E3 at 25.33% chance
+
+Akarius Prime Barrel:
+    Highest order ingame: 8 plat by user IIbceII (2 rep)
+    Median price: 5
+    Relics containing this item:
+        Neo A12 at 25.33% chance
+
+Gauss Prime Blueprint:
+    Highest order ingame: 7 plat by user zZireael1 (4 rep)
+    Median price: 5
+    Relics containing this item:
+        Neo M5 at 11% chance
+
+Tipedo Prime Ornament:
+    Highest order ingame: 10 plat by user Diablo_Wolf_01 (4 rep)
+    Median price: 5
+    Relics containing this item:
+        Neo N10 at 11% chance
+
+Wukong Prime Neuroptics Blueprint:
+    Highest order ingame: 5 plat by user sghshsh (22 rep)
+    Median price: 5
+    Relics containing this item:
+        Neo T2 at 25.33% chance
+
+Akstiletto Prime Link:
+    Highest order ingame: 8 plat by user IIbceII (2 rep)
+    Median price: 4.5
+    Relics containing this item:
+        Lith V7 at 11% chance
+
+Gara Prime Chassis Blueprint:
+    Highest order ingame: 7 plat by user As2y (5 rep)
+    Median price: 4
+    Relics containing this item:
+        Lith K6 at 11% chance
+
+Aksomati Prime Receiver:
+    Highest order ingame: 6 plat by user IIbceII (2 rep)
+    Median price: 4
+    Relics containing this item:
+        Lith K6 at 25.33% chance
+        Lith N6 at 25.33% chance
+
+Titania Prime Blueprint:
+    Highest order ingame: 3 plat by user Eternal-Redeemer (64 rep)
+    Median price: 4
+    Relics containing this item:
+        Lith M5 at 11% chance
+
+Zhuge Prime String:
+    Highest order ingame: 1 plat by user DerSucher (152 rep)
+    Median price: 4
+    Relics containing this item:
+        Lith N5 at 25.33% chance
+
+Titania Prime Chassis Blueprint:
+    Highest order ingame: 3 plat by user Eternal-Redeemer (64 rep)
+    Median price: 4
+    Relics containing this item:
+        Lith P4 at 25.33% chance
+
+Rubico Prime Barrel:
+    Median price: 4
+    Relics containing this item:
+        Lith S8 at 11% chance
+        Meso Z3 at 11% chance
+
+Zephyr Prime Chassis Blueprint:
+    Highest order ingame: 4 plat by user Arklys (14 rep)
+    Median price: 4
+    Relics containing this item:
+        Meso A2 at 11% chance
+        Meso R4 at 25.33% chance
+
+Protea Prime Blueprint:
+    Highest order ingame: 4 plat by user abbaPrime42 (1 rep)
+    Median price: 4
+    Relics containing this item:
+        Meso W4 at 25.33% chance
+
+Mesa Prime Chassis Blueprint:
+    Highest order ingame: 5 plat by user ingg4 (16 rep)
+    Median price: 4
+    Relics containing this item:
+        Neo A3 at 25.33% chance
+
+Mesa Prime Blueprint:
+    Highest order ingame: 5 plat by user ingg4 (16 rep)
+    Median price: 3.5
+    Relics containing this item:
+        Lith D1 at 11% chance
+        Meso R2 at 11% chance
+
+Baza Prime Receiver:
+    Median price: 3.5
+    Relics containing this item:
+        Meso C6 at 25.33% chance
+
+Okina Prime Handle:
+    Highest order ingame: 3 plat by user EpicMonsterHD (58 rep)
+    Median price: 3.5
+    Relics containing this item:
+        Meso G7 at 11% chance
+
+Akbolto Prime Barrel:
+    Highest order ingame: 1 plat by user justyynka7 (40 rep)
+    Median price: 3
+    Relics containing this item:
+        Lith A3 at 11% chance
+
+Rubico Prime Receiver:
+    Highest order ingame: 4 plat by user the_white_phantom (3 rep)
+    Median price: 3
+    Relics containing this item:
+        Lith A3 at 25.33% chance
+        Lith K2 at 25.33% chance
+        Lith K3 at 25.33% chance
+
+Ivara Prime Systems Blueprint:
+    Highest order ingame: 3 plat by user kfir2255 (32 rep)
+    Median price: 3
+    Relics containing this item:
+        Lith A4 at 11% chance
+
+Tipedo Prime Blueprint:
+    Highest order ingame: 4 plat by user RRonix (0 rep)
+    Median price: 3
+    Relics containing this item:
+        Lith B7 at 25.33% chance
+        Meso A2 at 25.33% chance
+
+Zephyr Prime Neuroptics Blueprint:
+    Highest order ingame: 5 plat by user GoodGuyGingii (12 rep)
+    Median price: 3
+    Relics containing this item:
+        Lith K2 at 25.33% chance
+        Neo N10 at 25.33% chance
+
+Pyrana Prime Barrel:
+    Highest order ingame: 2 plat by user SHJ07 (11 rep)
+    Median price: 3
+    Relics containing this item:
+        Lith L2 at 25.33% chance
+        Meso E2 at 25.33% chance
+        Meso N7 at 25.33% chance
+
+Kogake Prime Boot:
+    Highest order ingame: 3 plat by user terracottafang (9 rep)
+    Median price: 3
+    Relics containing this item:
+        Lith M7 at 25.33% chance
+
+Ivara Prime Blueprint:
+    Highest order ingame: 2 plat by user Eternal-Redeemer (64 rep)
+    Median price: 3
+    Relics containing this item:
+        Lith N5 at 11% chance
+        Meso N9 at 11% chance
+
+Stradavar Prime Stock:
+    Highest order ingame: 4 plat by user LeNoX373 (3 rep)
+    Median price: 3
+    Relics containing this item:
+        Lith N5 at 25.33% chance
+
+Zhuge Prime Grip:
+    Highest order ingame: 3 plat by user Notmyproblems (0 rep)
+    Median price: 3
+    Relics containing this item:
+        Lith N6 at 25.33% chance
+        Meso A2 at 25.33% chance
+        Neo A3 at 25.33% chance
+
+Gram Prime Blade:
+    Highest order ingame: 5 plat by user EasyRider88 (8 rep)
+    Median price: 3
+    Relics containing this item:
+        Lith S8 at 25.33% chance
+        Meso R4 at 25.33% chance
+
+Velox Prime Receiver:
+    Highest order ingame: 2 plat by user Jired (1 rep)
+    Median price: 3
+    Relics containing this item:
+        Lith T12 at 25.33% chance
+
+Chroma Prime Blueprint:
+    Highest order ingame: 2 plat by user Eternal-Redeemer (64 rep)
+    Median price: 3
+    Relics containing this item:
+        Meso B4 at 25.33% chance
+        Meso Z3 at 25.33% chance
+
+Chroma Prime Chassis Blueprint:
+    Highest order ingame: 4 plat by user G0dyeet (0 rep)
+    Median price: 3
+    Relics containing this item:
+        Meso D4 at 11% chance
+        Meso T3 at 11% chance
+
+Rubico Prime Stock:
+    Highest order ingame: 5 plat by user Kryahka (4 rep)
+    Median price: 3
+    Relics containing this item:
+        Meso E2 at 11% chance
+
+Gauss Prime Neuroptics Blueprint:
+    Highest order ingame: 4 plat by user Katsuii (12 rep)
+    Median price: 3
+    Relics containing this item:
+        Meso H5 at 11% chance
+
+Gram Prime Blueprint:
+    Highest order ingame: 4 plat by user CyanShine (1 rep)
+    Median price: 3
+    Relics containing this item:
+        Meso N7 at 11% chance
+
+Tekko Prime Gauntlet:
+    Highest order ingame: 1 plat by user Bethorr (2 rep)
+    Median price: 3
+    Relics containing this item:
+        Meso N9 at 25.33% chance
+
+Zakti Prime Receiver:
+    Median price: 3
+    Relics containing this item:
+        Meso P5 at 25.33% chance
+
+Ballistica Prime Upper Limb:
+    Highest order ingame: 5 plat by user IIbceII (2 rep)
+    Median price: 3
+    Relics containing this item:
+        Neo N10 at 11% chance
+
+Ninkondi Prime Blueprint:
+    Median price: 3
+    Relics containing this item:
+        Neo R2 at 25.33% chance
+
+Burston Prime Blueprint:
+    Highest order ingame: 2 plat by user Aetherum (4 rep)
+    Median price: 2.5
+    Relics containing this item:
+        Meso C6 at 25.33% chance
+
+Tiberon Prime Blueprint:
+    Highest order ingame: 2 plat by user Rycat (6 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith A3 at 11% chance
+        Lith K3 at 11% chance
+        Neo R2 at 11% chance
+
+Shade Prime Systems:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith A6 at 11% chance
+
+Orthos Prime Blueprint:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith B7 at 11% chance
+        Lith S8 at 11% chance
+
+Orthos Prime Blade:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith C4 at 11% chance
+        Lith T12 at 11% chance
+
+Fulmin Prime Stock:
+    Highest order ingame: 2 plat by user kfir2255 (32 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith C11 at 11% chance
+
+Phantasma Prime Blueprint:
+    Highest order ingame: 2 plat by user GrizzlyyTM (8 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith C11 at 11% chance
+        Meso W5 at 11% chance
+
+Acceltra Prime Blueprint:
+    Median price: 2
+    Relics containing this item:
+        Lith C11 at 25.33% chance
+        Meso W5 at 25.33% chance
+
+Ninkondi Prime Chain:
+    Highest order ingame: 2 plat by user -L-Undert4ker (148 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith D1 at 11% chance
+
+Hildryn Prime Neuroptics Blueprint:
+    Highest order ingame: 2 plat by user Akdeniz07 (13 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith G10 at 11% chance
+
+Cobra & Crane Prime Blueprint:
+    Highest order ingame: 2 plat by user XReguLX (7 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith G10 at 11% chance
+        Neo S18 at 11% chance
+
+Fulmin Prime Barrel:
+    Median price: 2
+    Relics containing this item:
+        Lith G10 at 25.33% chance
+        Meso V9 at 25.33% chance
+
+Burston Prime Barrel:
+    Highest order ingame: 2 plat by user AxEy0s (11 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith I1 at 11% chance
+        Meso G2 at 11% chance
+        Neo A11 at 11% chance
+
+Karyst Prime Handle:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith I1 at 11% chance
+
+Pandero Prime Blueprint:
+    Median price: 2
+    Relics containing this item:
+        Lith I1 at 25.33% chance
+
+Braton Prime Receiver:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith K2 at 11% chance
+        Lith L2 at 11% chance
+        Lith N5 at 11% chance
+        Neo A11 at 11% chance
+
+Paris Prime Grip:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith K6 at 11% chance
+        Meso G6 at 11% chance
+        Neo R2 at 11% chance
+
+Tekko Prime Blueprint:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith L2 at 11% chance
+        Lith P5 at 11% chance
+
+Redeemer Prime Blade:
+    Highest order ingame: 2 plat by user Eternal-Redeemer (64 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith L2 at 25.33% chance
+        Lith M5 at 25.33% chance
+        Neo N10 at 25.33% chance
+
+Stradavar Prime Barrel:
+    Highest order ingame: 2 plat by user -L-Undert4ker (148 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith M5 at 11% chance
+        Lith N6 at 11% chance
+        Meso E3 at 11% chance
+
+Euphona Prime Barrel:
+    Highest order ingame: 6 plat by user JUSTKGN (2 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith M7 at 11% chance
+
+Banshee Prime Neuroptics Blueprint:
+    Median price: 2
+    Relics containing this item:
+        Lith M7 at 25.33% chance
+
+Inaros Prime Chassis Blueprint:
+    Highest order ingame: 2 plat by user qwerty173 (1 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith N6 at 11% chance
+
+Baruuk Prime Chassis Blueprint:
+    Highest order ingame: 2 plat by user kfir2255 (32 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith P8 at 11% chance
+        Meso V9 at 11% chance
+
+Akarius Prime Link:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith R5 at 11% chance
+
+Tatsu Prime Blade:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Lith R5 at 11% chance
+        Meso G7 at 11% chance
+
+Redeemer Prime Blueprint:
+    Highest order ingame: 2 plat by user Eternal-Redeemer (64 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso B4 at 11% chance
+
+Shade Prime Blueprint:
+    Highest order ingame: 2 plat by user .zly. (0 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso B9 at 11% chance
+
+Nezha Prime Blueprint:
+    Highest order ingame: 1 plat by user EatShytDie (0 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso C6 at 11% chance
+
+Akjagara Prime Blueprint:
+    Median price: 2
+    Relics containing this item:
+        Meso D4 at 25.33% chance
+
+Akbolto Prime Link:
+    Highest order ingame: 1 plat by user justyynka7 (40 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso E2 at 11% chance
+
+Atlas Prime Chassis Blueprint:
+    Median price: 2
+    Relics containing this item:
+        Meso E3 at 11% chance
+
+Atlas Prime Systems Blueprint:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso G2 at 11% chance
+        Neo A3 at 11% chance
+
+Zylok Prime Receiver:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso G6 at 11% chance
+
+Wisp Prime Systems Blueprint:
+    Highest order ingame: 2 plat by user -DECOM- (9 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso G7 at 25.33% chance
+
+Revenant Prime Systems Blueprint:
+    Highest order ingame: 3 plat by user LiShang233 (25 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso H5 at 11% chance
+
+Kronen Prime Blueprint:
+    Highest order ingame: 2 plat by user Marco2345 (10 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso N7 at 25.33% chance
+
+Akjagara Prime Link:
+    Highest order ingame: 2 plat by user Mkido (6 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso N9 at 11% chance
+        Meso Z3 at 11% chance
+
+Gara Prime Neuroptics Blueprint:
+    Highest order ingame: 2 plat by user Rokiraider (6 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso P5 at 11% chance
+
+Aksomati Prime Blueprint:
+    Median price: 2
+    Relics containing this item:
+        Meso R2 at 25.33% chance
+
+Limbo Prime Blueprint:
+    Highest order ingame: 4 plat by user Batemgy (69 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso T3 at 11% chance
+
+Afuris Prime Link:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso V9 at 11% chance
+
+Gunsen Prime Handle:
+    Highest order ingame: 1 plat by user HAROUNAN (19 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso W4 at 11% chance
+
+Cobra & Crane Prime Blade:
+    Highest order ingame: 2 plat by user Epicrex (21 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso W5 at 11% chance
+
+Stradavar Prime Receiver:
+    Highest order ingame: 3 plat by user Leoh_ (1 rep)
+    Median price: 2
+    Relics containing this item:
+        Meso Z3 at 25.33% chance
+
+Equinox Prime Neuroptics Blueprint:
+    Highest order ingame: 2 plat by user Eternal-Redeemer (64 rep)
+    Median price: 2
+    Relics containing this item:
+        Neo A3 at 11% chance
+
+Revenant Prime Chassis Blueprint:
+    Highest order ingame: 3 plat by user Aerinx (50 rep)
+    Median price: 2
+    Relics containing this item:
+        Neo A11 at 25.33% chance
+
+Larkspur Prime Stock:
+    Highest order ingame: 2 plat by user Apachesan (6 rep)
+    Median price: 2
+    Relics containing this item:
+        Neo A12 at 11% chance
+
+Revenant Prime Neuroptics Blueprint:
+    Highest order ingame: 2 plat by user Katsuii (12 rep)
+    Median price: 2
+    Relics containing this item:
+        Neo A12 at 11% chance
+
+Grendel Prime Neuroptics Blueprint:
+    Median price: 2
+    Relics containing this item:
+        Neo M5 at 25.33% chance
+
+Grendel Prime Chassis Blueprint:
+    Highest order ingame: 2 plat by user -L-Undert4ker (148 rep)
+    Median price: 2
+    Relics containing this item:
+        Neo S18 at 11% chance
+
+Dethcube Prime Carapace:
+    Highest order ingame: 2 plat by user -L-Undert4ker (148 rep)
+    Median price: 2
+    Relics containing this item:
+        Neo T2 at 11% chance
+
+Corinth Prime Blueprint:
+    Median price: 1.5
+    Relics containing this item:
+        Lith A4 at 25.33% chance
+
+Masseter Prime Handle:
+    Median price: 1.5
+    Relics containing this item:
+        Lith A6 at 25.33% chance
+
+Paris Prime Lower Limb:
+    Median price: 1.5
+    Relics containing this item:
+        Lith C4 at 25.33% chance
+        Meso T3 at 25.33% chance
+
+Atlas Prime Blueprint:
+    Median price: 1.5
+    Relics containing this item:
+        Lith D1 at 25.33% chance
+        Lith K6 at 25.33% chance
+        Lith M5 at 25.33% chance
+        Lith P5 at 25.33% chance
+
+Fang Prime Blade:
+    Median price: 1.5
+    Relics containing this item:
+        Lith I1 at 25.33% chance
+        Lith N6 at 25.33% chance
+
+Equinox Prime Chassis Blueprint:
+    Highest order ingame: 1 plat by user Rokiraider (6 rep)
+    Median price: 1.5
+    Relics containing this item:
+        Lith L2 at 25.33% chance
+        Meso G2 at 25.33% chance
+
+Zylok Prime Barrel:
+    Median price: 1.5
+    Relics containing this item:
+        Lith R5 at 25.33% chance
+
+Larkspur Prime Blueprint:
+    Median price: 1.5
+    Relics containing this item:
+        Lith T12 at 25.33% chance
+        Meso B9 at 25.33% chance
+
+Limbo Prime Systems Blueprint:
+    Highest order ingame: 1 plat by user Eternal-Redeemer (64 rep)
+    Median price: 1.5
+    Relics containing this item:
+        Meso N7 at 25.33% chance
+
+Orthos Prime Handle:
+    Median price: 1
+    Relics containing this item:
+        Lith A3 at 25.33% chance
+        Meso D4 at 25.33% chance
+        Meso G2 at 25.33% chance
+        Meso P5 at 25.33% chance
+        Neo A12 at 25.33% chance
+
+Lex Prime Blueprint:
+    Highest order ingame: 1 plat by user Apachesan (6 rep)
+    Median price: 1
+    Relics containing this item:
+        Lith A3 at 25.33% chance
+        Lith P5 at 25.33% chance
+        Meso D4 at 11% chance
+        Neo A11 at 25.33% chance
+
+Baza Prime Barrel:
+    Highest order ingame: 2 plat by user DerSucher (152 rep)
+    Median price: 1
+    Relics containing this item:
+        Lith A4 at 11% chance
+
+Burston Prime Receiver:
+    Median price: 1
+    Relics containing this item:
+        Lith A4 at 25.33% chance
+        Lith C4 at 25.33% chance
+        Lith D1 at 25.33% chance
+        Lith G10 at 25.33% chance
+        Neo M5 at 25.33% chance
+
+Hildryn Prime Systems Blueprint:
+    Highest order ingame: 1 plat by user Akdeniz07 (13 rep)
+    Median price: 1
+    Relics containing this item:
+        Lith A6 at 25.33% chance
+        Neo S18 at 25.33% chance
+
+Bronco Prime Blueprint:
+    Median price: 1
+    Relics containing this item:
+        Lith A6 at 25.33% chance
+        Lith K6 at 25.33% chance
+        Lith P4 at 25.33% chance
+        Meso E2 at 25.33% chance
+
+Lex Prime Receiver:
+    Median price: 1
+    Relics containing this item:
+        Lith B7 at 25.33% chance
+        Lith D1 at 25.33% chance
+        Meso W4 at 25.33% chance
+
+Braton Prime Stock:
+    Median price: 1
+    Relics containing this item:
+        Lith C4 at 11% chance
+        Neo R2 at 25.33% chance
+
+Braton Prime Barrel:
+    Median price: 1
+    Relics containing this item:
+        Lith C11 at 25.33% chance
+        Lith K2 at 25.33% chance
+        Lith P4 at 25.33% chance
+        Lith S8 at 25.33% chance
+        Meso R4 at 25.33% chance
+
+Gunsen Prime Blueprint:
+    Median price: 1
+    Relics containing this item:
+        Lith C11 at 25.33% chance
+
+Paris Prime Upper Limb:
+    Highest order ingame: 1 plat by user terracottafang (9 rep)
+    Median price: 1
+    Relics containing this item:
+        Lith K3 at 25.33% chance
+        Lith T12 at 25.33% chance
+        Meso B4 at 25.33% chance
+        Meso B9 at 11% chance
+
+Burston Prime Stock:
+    Median price: 1
+    Relics containing this item:
+        Lith M5 at 25.33% chance
+        Meso G6 at 25.33% chance
+        Meso G7 at 25.33% chance
+
+Akbolto Prime Blueprint:
+    Median price: 1
+    Relics containing this item:
+        Lith M7 at 25.33% chance
+
+Guandao Prime Blueprint:
+    Median price: 1
+    Relics containing this item:
+        Lith P5 at 11% chance
+
+Bronco Prime Receiver:
+    Highest order ingame: 1 plat by user Bethorr (2 rep)
+    Median price: 1
+    Relics containing this item:
+        Lith P5 at 25.33% chance
+        Lith P8 at 25.33% chance
+        Meso B4 at 25.33% chance
+        Meso E3 at 25.33% chance
+
+Afuris Prime Barrel:
+    Median price: 1
+    Relics containing this item:
+        Lith P8 at 25.33% chance
+        Meso B9 at 25.33% chance
+        Meso W4 at 25.33% chance
+
+Lex Prime Barrel:
+    Highest order ingame: 1 plat by user Shabti (1 rep)
+    Median price: 1
+    Relics containing this item:
+        Lith P8 at 25.33% chance
+        Meso C6 at 25.33% chance
+        Meso T3 at 25.33% chance
+        Neo A3 at 25.33% chance
+
+Fang Prime Blueprint:
+    Median price: 1
+    Relics containing this item:
+        Lith R5 at 25.33% chance
+        Meso R2 at 25.33% chance
+        Meso V9 at 25.33% chance
+        Neo T2 at 25.33% chance
+
+Braton Prime Blueprint:
+    Median price: 1
+    Relics containing this item:
+        Meso B9 at 25.33% chance
+
+Tatsu Prime Blueprint:
+    Median price: 1
+    Relics containing this item:
+        Meso G6 at 25.33% chance
+        Neo S18 at 25.33% chance
+
+Cobra & Crane Prime Hilt:
+    Highest order ingame: 1 plat by user MikeTheGameR34 (11 rep)
+    Median price: 1
+    Relics containing this item:
+        Meso G7 at 25.33% chance
+
+Paris Prime Blueprint:
+    Median price: 1
+    Relics containing this item:
+        Meso H5 at 25.33% chance
+
+Fang Prime Handle:
+    Median price: 1
+    Relics containing this item:
+        Meso H5 at 25.33% chance
+
+Paris Prime String:
+    Median price: 1
+    Relics containing this item:
+        Meso N9 at 25.33% chance
+        Neo A12 at 25.33% chance
+
+Tenora Prime Blueprint:
+    Highest order ingame: 1 plat by user DerSucher (152 rep)
+    Median price: 1
+    Relics containing this item:
+        Meso P5 at 25.33% chance
+
+Destreza Prime Blueprint:
+    Median price: 1
+    Relics containing this item:
+        Meso R2 at 11% chance
+
+Shade Prime Cerebrum:
+    Median price: 1
+    Relics containing this item:
+        Meso W5 at 25.33% chance
+
+Akbronco Prime Blueprint:
+    Median price: 1
+    Relics containing this item:
+        Neo T2 at 25.33% chance
+
+Afuris Prime Blueprint:
+    Could not calculate median price.
+    Relics containing this item:
+        Neo M5 at 25.33% chance
+
